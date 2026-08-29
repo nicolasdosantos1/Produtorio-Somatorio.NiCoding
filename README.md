@@ -6,7 +6,9 @@ Este repositório contém os códigos-fontes desenvolvidos para o **Episódio 2*
 
 ## 📺 Sobre o seriado NiCoding
 
-O **NiCoding** é uma série prática e didática de projetos em programação voltada para o aprendizado progressivo de conceitos da lógica de programação e matemática computacional. Cada episódio aborda a implementação de soluções de forma acessível e direta ao ponto.
+O **NiCoding** é uma série prática e didática de projetos em programação voltada para o aprendizado progressivo de conceitos da lógica de programação e matemática computacional. Cada episódio aborda a implementação de soluções de forma acessível e direta ao ponto. Cada episódio aborda a implementação de soluções de forma acessível e direta ao ponto, acessável via YouTube.
+
+https://youtu.be/1mgrSmXBtT0
 
 ---
 
